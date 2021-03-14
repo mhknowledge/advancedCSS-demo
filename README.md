@@ -11,6 +11,11 @@ In order to install the project you will need:
 2.) Git Bash command line in order to clone the respository locally for any intented contributions to improve the code.
 3.) VS Code or any environment of your choosing for html, css and js file manipulation.
 
+## Preview 
+![image](https://user-images.githubusercontent.com/79174643/111075246-7154cb80-84bd-11eb-87d8-29010d54f7bb.png)
+
+![image](https://user-images.githubusercontent.com/79174643/111075280-a6f9b480-84bd-11eb-9a94-bc1ab1e62b60.png)
+
 
 ## Links
 Portfolio Webpage: https://mhknowledge.github.io/advancedCSS-demo/
