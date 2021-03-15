@@ -251,11 +251,13 @@ button {
     }
     .myProjects img {
         margin: 15px;
-        max-height: 150px;
+        max-height: 120px;
     }
     
     .contact-me {
         height: 325px;
     }
 
+
+        
 }
